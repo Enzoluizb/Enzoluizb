@@ -1,9 +1,5 @@
 ## Bem-vindo ao meu GitHub 👋
 
-<p>- 🧑🏻Me chamo Enzo Luiz Bertoli, tenho 18 anos e estou cursando Técnico de Informática para Internet no SENAC - Joinville SC</p>
-
-<p>- 👓Estudando React</p>
-
 ##
 <div> 
   <a href = "mailto:enzoluiz.brt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
