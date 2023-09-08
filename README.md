@@ -8,7 +8,8 @@
 
 <div>
   <a href="https://github.com/enzoluizb">
+    
   <a href="https://github.com/enzoluizb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=enzoluizb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Enzo's github stats" /></a>
+    
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoluizb&layout=compact&langs_count=7&theme=dracula"/>
-  <img height=150px width=150px src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">  
 </div>
