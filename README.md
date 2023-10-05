@@ -7,9 +7,6 @@
 </div>
 
 <div>
-  <a href="https://github.com/enzoluizb">
-    
-  <a href="https://github.com/enzoluizb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=enzoluizb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Enzo's github stats" /></a>
-    
+  <a href="https://github.com/enzoluizb">    
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoluizb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
