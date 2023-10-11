@@ -7,10 +7,5 @@
 </div>
 
 <div>
-  <a href="https://github.com/Enzoluizb/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Enzoluizb&repo=github-readme-stats&theme=buefy" />
-  </a>
-  <a href="https://github.com/Enzoluizb/Enzoluizb.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Enzoluizb&repo=Enzoluizb.github.io&theme=buefy" />
-  </a>
+  <a href="https://github.com/enzoluizb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=enzoluizb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/enzoluizb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoluizb&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
