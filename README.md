@@ -7,10 +7,10 @@
 </div>
 
 <div>
-  <a href="https://github.com/enzoluizb/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enzoluizb&repo=github-readme-stats&theme=buefy" />
+  <a href="https://github.com/Enzoluizb/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Enzoluizb&repo=github-readme-stats&theme=buefy" />
   </a>
-  <a href="https://github.com/anuraghazra/enzoluizb.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enzoluizb&repo=enzoluizb.github.io&theme=buefy" />
+  <a href="https://github.com/Enzoluizb/Enzoluizb.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Enzoluizb&repo=Enzoluizb.github.io&theme=buefy" />
   </a>
 </div>
