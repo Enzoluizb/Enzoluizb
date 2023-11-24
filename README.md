@@ -5,6 +5,7 @@
 <p>- 💼 System Support at Prisma Box App</p>
 <p>- 📈 Graduated in IT technician for internet at SENAC</p>
 <p>- 🏙 Studying systems analysis and development at Unisociesc</p>
+<a href="https://github.com/enzoluizb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoluizb&layout=compact&theme=buefy&hide_border=true" /></a> 
 </div>
 <br/>
 <div>
